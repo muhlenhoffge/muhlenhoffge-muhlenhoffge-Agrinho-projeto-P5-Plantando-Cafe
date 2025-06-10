@@ -1,4 +1,5 @@
 Projeto Plantando Café
+
 O que o projeto faz?
 Quando o usuário clica em uma tecla, o projeto planta um pé de café na tela e mostra a evolução da plantação de café desde a década de 1960.
 Objetivo do projeto
